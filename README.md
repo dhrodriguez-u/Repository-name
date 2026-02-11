@@ -1,2 +1,2 @@
 # hello-word
-This repository is for practicing the GitHub Flow
+Estudiante de ingenieria en sistemas con 20 años de edad.
